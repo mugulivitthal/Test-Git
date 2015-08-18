@@ -1,2 +1,2 @@
 # Test-Git
-My first Git Test Repository
+This is my first Git Test Repository.
